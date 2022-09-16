@@ -44,6 +44,8 @@ The platform has been validated for real-time implementation on the following em
 
 ## Pictures ##
 --------------
-
-
+![UroSound GUI](images/picture_beacon.jpg?raw=true "Title")
+![UroSound GUI](images/web1.png?raw=true "Title")
+![UroSound GUI](images/web2.png?raw=true "Title")
+![UroSound GUI](images/web3.png?raw=true "Title")
 
