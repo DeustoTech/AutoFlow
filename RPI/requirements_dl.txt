@@ -1,0 +1,6 @@
+tensorflow-2.8.0-cp39-none-linux_aarch64
+tensorflow_hub
+bleak
+protobuf==3.19.*
+numpy==1.22.1
+scipy.io
