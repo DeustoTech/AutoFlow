@@ -38,7 +38,7 @@ The platform has been validated for real-time implementation on the following em
 ## Support ##
 --------------
 - Contact [Laura Arjona] @DeustoTech through email `laura.arjona` at deusto.es, [Girish Narayanswamy] @UW through email `girishvn` at uw.edu
-- Developed with Laura Arjona and Sergio, Hernandez, from the University of Deusto, Bilbao, Spain. Girish Narayanswamy from the University of Washington, Seattle, USA
+- Developed with Laura Arjona and Sergio, Hernandez, from the University of Deusto, Bilbao, Spain. Girish Narayanswamy from the University of Washington, Seattle, USA, and Alfonso Bahillo, from the Universidad de Valladolid, Spain.
  
 - Collaborator: Dr. Elba Canelon, Puerta del Mar University Hospital, Cadiz, Spain.
 
